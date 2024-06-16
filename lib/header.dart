@@ -13,7 +13,7 @@ class HeaderSection extends StatelessWidget {
         children: [
           // Nom de l'application
           Text(
-            'Nom de l\'Application',
+            'Recipe Generator',
             style: TextStyle(
               fontSize: 24.0,
               fontWeight: FontWeight.bold,
